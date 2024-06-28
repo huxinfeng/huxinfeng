@@ -1,9 +1,14 @@
 ### Hi there 👋
-我是一名前端开发工程师，正在努力成为一名全栈开发工程师。
+我是一名前端开发工程师，方向是图形领域（主要做2D游戏，及数据点云标注平台），正在努力成为一名全栈开发工程师。
 
 ![AwesomeDevin's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huxinfeng&show_icons=true&theme=highcontrast&count_private=true&border_radius=50%&include_all_commits=true&hide_border=true&icon_color=red)
 
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=huxinfeng&theme=highcontrast&layout=compact&border_radius=50%&hide_border=true)
+
+以下是我的几个想法，及想做的东西:
+- 💡 2D低代码游戏开发平台，暂时叫它 Dimo
+- 💡 低代码数据可视化平台，Polona
+- 💡 鸿蒙应用：心语记账App
 
 <!--
 **huxinfeng/huxinfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
